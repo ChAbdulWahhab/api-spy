@@ -1,9 +1,9 @@
 # @chabdulwahab/api-spy
 
-[![npm version](https://img.shields.io/npm/v/@chabdulwahab/api-spy.svg)](https://www.npmjs.com/package/@chabdulwahab/api-spy)
-[![downloads](https://img.shields.io/npm/dt/@chabdulwahab/api-spy.svg)](https://www.npmjs.com/package/@chabdulwahab/api-spy)
-[![bundle size](https://img.shields.io/bundlephobia/min/@chabdulwahab/api-spy.svg)](https://bundlephobia.com/package/@chabdulwahab/api-spy)
-[![license](https://img.shields.io/npm/l/@chabdulwahab/api-spy.svg)](https://github.com/chabdulwahab/api-spy/blob/main/LICENSE)
+[![npm version](https://img.shields.io/npm/v/@chabdulwahab/api-spy?color=cb3837&logo=npm)](https://www.npmjs.com/package/@chabdulwahab/api-spy)
+[![downloads](https://img.shields.io/npm/dm/@chabdulwahab/api-spy?color=blue)](https://www.npmjs.com/package/@chabdulwahab/api-spy)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/@chabdulwahab/api-spy?color=green&label=bundle%20size)](https://bundlephobia.com/package/@chabdulwahab/api-spy)
+[![license](https://img.shields.io/npm/l/@chabdulwahab/api-spy?color=brightgreen)](https://github.com/chabdulwahab/api-spy/blob/main/LICENSE)
 
 A zero-dependency, lightweight Express.js middleware that intercepts stdout/stderr streams to render a sticky real-time performance and metrics dashboard at the bottom of the terminal.
 
