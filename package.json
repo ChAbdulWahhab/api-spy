@@ -1,6 +1,6 @@
 {
   "name": "@chabdulwahab/api-spy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Zero-dependency, high-performance Express.js middleware terminal dashboard",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
