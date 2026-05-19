@@ -1,6 +1,6 @@
 {
   "name": "@chabdulwahab/api-spy",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Zero-dependency, high-performance Express.js middleware terminal dashboard",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -26,9 +26,7 @@
   ],
   "author": "Ch Abdul Wahhab",
   "license": "MIT",
-  "dependencies": {
-    "@chabdulwahab/api-spy": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/node": "^20.11.0",
