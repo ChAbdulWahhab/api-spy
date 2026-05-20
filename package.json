@@ -25,9 +25,6 @@
     "performance"
   ],
   "repository": "git+https://github.com/ChAbdulWahhab/api-spy.git",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "author": "Ch Abdul Wahhab",
   "license": "MIT",
   "dependencies": {},
