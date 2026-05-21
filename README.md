@@ -1,7 +1,8 @@
+# @chabdulwahab/api-spy
+
 <div align="center">
   <img src="assets/Spying-on-your-Express-APIs-cleanly.png" alt="api-spy" />
-
-# @chabdulwahab/api-spy
+</div>
 
 A zero-dependency, lightweight Express.js middleware that intercepts stdout/stderr streams to render a sticky real-time performance and metrics dashboard at the bottom of the terminal.
 
